@@ -9,6 +9,7 @@ permalink: /nasoa/
 
 <strong><a href="https://www.stickermule.com/" target="_blank">Sticker Mule</a>:</strong>
 Sticker Mule provides an excellent platform for custom stickers for your Macbook, your wall, even your floor! Click the image below for $10 credit, which is more than enough for a set of 10 custom stickers for $9!
+
 <a href="https://www.stickermule.com/unlock?ref_id=9868670701">
   <img alt="Custom Stickers, Die Cut Stickers, Bumper Stickers - Sticker Mule" border="0" height="160" src="https://d3g919u5f14ld1.cloudfront.net/assets/images/stores/sticker_mule/banners/rectangle-a459ea26.jpg" width="200" />
 </a>
