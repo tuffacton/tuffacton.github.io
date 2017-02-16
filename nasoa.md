@@ -6,6 +6,14 @@ permalink: /nasoa/
 <h3>These are simply all the things that have received the Nic Acton Seal of Approval (or NASoA for short).</h3>
 <h2>Professional Development</h2>
 <strong><a href="http://bit.do/" target="_blank">URL Shortener (bit.do)</a>: </strong>Allows you to make custom shortened urls and QR codes. Incredibly useful for resumes and business cards!
+
+<strong><a href="https://www.stickermule.com/" target="_blank">Sticker Mule</a>:</strong>
+Sticker Mule provides an excellent platform for custom stickers for your Macbook, your wall, even your floor! Click the image below for $10 credit, which is more than enough for a set of 10 custom stickers for $9!
+
+<a href="https://www.stickermule.com/unlock?ref_id=9868670701">
+  <img alt="Custom Stickers, Die Cut Stickers, Bumper Stickers - Sticker Mule" border="0" height="160" src="https://d3g919u5f14ld1.cloudfront.net/assets/images/stores/sticker_mule/banners/rectangle-a459ea26.jpg" width="200" />
+</a>
+
 <h2>Collaboration</h2>
 <strong><a href="https://quip.com" target="_blank">Quip</a>:</strong> One of the the best environments for collaborating on and creating beautiful, simple, well-designed documents online. Includes a great interface for making comments and task-management between team members.
 
